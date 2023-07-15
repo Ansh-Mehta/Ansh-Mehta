@@ -14,10 +14,10 @@
 
 <h4>My Github Stats</h4>
 
-
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ansh-Mehta&show_icons=true&count_private=true) 
+
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Ansh-Mehta) 
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh-Mehta">
 
 
