@@ -1,8 +1,8 @@
-<img style="align: center;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpPJvVBe6bTcFmp_0rz006_PCMsGk4zX9FDw&usqp=CAU">
-<h1>Hi there 👋, I am Ansh Mehta</h1>
-<h3>Data Science | Cyber Security | Cloud Computing</h3>
-![Data Science | Cyber Security | Cloud Computing]
-I'm a Data Enthusiast working on various Data Science related projects. I also find myself interested in the fields of Cyber Security and Cloud Computing and have developed various projects on the same.
+<p align="center">
+<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif">
+</p>
+<h1 align="center">Hi 👋, I'm Ansh Mehta</h1>
+<h3 align="center">Data Science | Deep Learning | Machine Learning | Cloud Computing | Cyber Security</h3>
 
 **About Me**
 - 🔭 I’m currently working on Realtime Load Forecasting using Deep Learning 
@@ -19,5 +19,10 @@ I'm a Data Enthusiast working on various Data Science related projects. I also f
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Ansh-Mehta)  
 
-<h4>Connect with me</h4>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ansh-Mehta)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ansh-mehta2509/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/@versatilevocal3286)  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ansh mehta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ansh mehta" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ansh_2509/?igshid=NGExMmI2YTkyZg%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anshmehta25" height="30" width="40" /></a>  
+<a href="https://kaggle.com/anshmehta25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anshmehta25" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/versatile vocal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="versatile vocal" height="30" width="40" /></a>
+</p>
