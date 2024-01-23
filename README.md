@@ -2,7 +2,7 @@
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif">
 </p>
 <h1 align="center">Hi 👋, I'm Ansh Mehta</h1>
-<h3 align="center">Data Science | Data Analytics| Deep Learning | Machine Learning | Cloud Computing</h3>
+<h3 align="center">Data Science | Data Analytics | Deep Learning | Machine Learning | Cloud Computing</h3>
 
 **About Me**
 - 🔭 I’m currently working on Realtime Weather-Based Load Forecasting using Deep Learning as Data Science Intern @ TATA Power.
